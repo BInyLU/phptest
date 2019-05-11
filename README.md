@@ -1,6 +1,8 @@
 # phptest
 使用Thinkphp实现前端+后台，测试版
 
+这是我去年跟着慕课教程做的练习。
+
 预览地址：https://ufaupa.coding.io/
 后台地址：https://ufaupa.coding.io/admin.php
 默认后台账号密码都是admin
